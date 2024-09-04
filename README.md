@@ -3,3 +3,7 @@
 Read more:
 
 https://lazyhacker.medium.com/streamlining-dll-hijacking-with-automated-testing-3719f342dbb8
+
+Install Requirements:
+
+pip install -r requirements.txt
