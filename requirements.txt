@@ -1,0 +1,5 @@
+csv
+termcolor
+colorama
+pyfiglet
+shutil
