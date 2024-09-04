@@ -1,5 +1,4 @@
-csv
 termcolor
 colorama
 pyfiglet
-shutil
+psutil
